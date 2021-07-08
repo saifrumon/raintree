@@ -1,0 +1,78 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 45px;
+}
+.orange-color{
+    color: orange;
+}
+h3{
+    font-size: 25px;
+}
+.half-width{
+    width: 45%;
+    padding-left: 2%;
+    margin-bottom: 2%;
+    text-align: justify;
+}
+.half-width img{
+    width: 80%;
+    padding-left: 10%;
+    padding-top: 7%;
+}
+.common-area{
+    background-image: url(top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 15px 25px;
+    margin: 15px;
+    font-size: 20px;
+    color: white;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.about-us{
+    background-image: url(dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.room-dis{
+    width: 100%;
+    padding-left: 40%;
+}
+.three-room{
+    display: flex;
+}
+.dkf{
+    width: 30%;
+    box-shadow: 10px 25px 35px gray;
+    padding: 2%;
+    margin: 2%;
+    border-radius: 15px;
+    
+    
+}
+.dkf img{
+    width: 100%;
+    border-radius: 15px;
+}
+h5{
+    font-size: 25px;
+    text-align: center;
+}
+h6{
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    color: hotpink;
+}
